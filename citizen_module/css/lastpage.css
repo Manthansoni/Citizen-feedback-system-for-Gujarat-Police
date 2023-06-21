@@ -1,0 +1,113 @@
+@media only screen and (max-width: 500px) {
+
+	/* Bordered form */
+	body {
+		scroll-behavior: smooth;
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	form {
+		border: 3px solid #f1f1f1;
+		width: max-content;
+		height: 100vh;
+		/* margin-left: 17em; */
+		/* padding: 30px; */
+	}
+
+	.font {
+		font-size: 14px;
+	}
+
+	.imgcontainer {
+		overflow: auto;
+	}
+
+	.logo {
+		float: left;
+		margin-top: 37%;
+	}
+
+	.GPD {
+		float: left;
+		margin-top: 40%;
+		margin-left: 1%
+	}
+
+	.fetched_data {
+		overflow: auto;
+		font-size: 10px;
+	}
+
+	.PCR {
+		overflow: auto;
+		font-size: 10px;
+		/* width: max-content; */
+	}
+
+	.PCR_city {
+		float: left;
+		margin-left: 20px;
+	}
+
+	.PCR_button {
+		margin-left: 250px;
+	}
+
+	.left {
+		float: left;
+		margin-left: 20px
+	}
+
+	.right1 {
+		float: left;
+		margin-left: 180px;
+	}
+
+	.right2 {
+		float: left;
+		margin-left: 187px;
+	}
+
+	.right3 {
+		float: left;
+		margin-left: 175px;
+	}
+
+	font {
+		opacity: 0.6;
+	}
+
+	hr {
+		border-style: dashed;
+		width: 70%;
+	}
+
+	.ty {
+		padding-right: 20px;
+		font-size: 10px;
+		margin-top: -1%;
+	}
+
+	.call_button {
+		height: 20px;
+		width: 50px;
+		border-radius: 5px;
+	}
+
+	.PCR_NO {
+		padding-top: 30px;
+		padding-bottom: 10px;
+		border: 2px solid #f1f1f1;
+		width: 380px;
+	}
+
+	.icon_button {
+		border-radius: 50%;
+		height: 50px;
+		width: 50px;
+	}
+
+	.app_button {
+		/* margin-top: 80%; */
+	}
+}

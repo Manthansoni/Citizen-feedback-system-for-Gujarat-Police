@@ -1,0 +1,120 @@
+/* Bordered form */
+form {
+  border: 3px solid #f1f1f1;
+  width: 350px;
+  margin: 100px;
+}
+
+/* Add padding to containers */
+.imgcontainer {
+  left: 500px;
+}
+
+.heading {
+  text-align: right;
+  margin: -25% 10% 0% 2%;
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+}
+
+.txt {
+  margin-right: 7%;
+}
+
+.container {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.first input {
+  border: 3px solid #DFDFDF;
+  border-radius: 7px;
+  height: 6%;
+  width: 90%;
+}
+
+::placeholder {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.second {
+  text-align: left;
+  padding-left: 1%;
+  border: 3px solid #DFDFDF;
+  border-radius: 7px;
+  height: 5%;
+  width: 87.3%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  letter-spacing: 2px;
+  margin-left: 5%;
+}
+
+.third {
+  border: 3px solid #DFDFDF;
+  border-radius: 7px;
+  height: 13%;
+  width: 87.3%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  font-size: 10px;
+  margin-left: 5%;
+}
+
+.four {
+  border: 3px solid #DFDFDF;
+  border-radius: 7px;
+  height: 18%;
+  width: 87.3%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  font-size: 10px;
+  margin-left: 5%;
+}
+
+.five {
+  border: 3px solid #DFDFDF;
+  border-radius: 7px;
+  height: 15%;
+  width: 87.3%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  font-size: 10px;
+  margin-left: 5%;
+}
+
+.emoji {
+  font-size: 20px;
+}
+
+.fifth {
+  border: 3px solid #DFDFDF;
+  border-radius: 7px;
+  height: 10%;
+  width: 88.4%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+.sbutton {
+  color: #000000;
+  background-color: #D9D9D9;
+  border-radius: 4px;
+  border: 2px solid #D9D9D9;
+  height: 5%;
+  align-content: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+
+}
