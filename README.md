@@ -19,11 +19,12 @@ Citizen module :
 <br>
 Admin module :
 
-![image_2023-06-21_13-23-42](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/4a9f493b-c676-49fe-b4bc-ce91144c502f)
-![image_2023-06-21_13-23-47](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/0419bb81-57ee-4e4b-b4a9-4541c79ad2b3)
-![image_2023-06-21_13-24-11](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/c633236b-11e5-4899-b727-f11d63707992)
-![image_2023-06-21_13-24-28](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/3be0cc32-b6df-461c-ad6e-4ab1088714ef)
-![image_2023-06-21_13-24-40](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ef24ab50-333e-4440-b303-3aa9f35b04ec)
+![image_2023-06-21_13-23-42](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/7a3b6b7c-7340-4834-981f-88be52ea3c95)
+![image_2023-06-21_13-23-47](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/0b8c9a10-4021-4e66-99ab-5a29db2a82bc)
+![image_2023-06-21_13-24-11](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/c8ffa464-9ce7-4994-9d80-7bc65f6aedc0)
+![image_2023-06-21_13-24-28](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ee7a7019-bb2d-4678-bb46-655b050293d2)
+![image_2023-06-21_13-24-40](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ef54c0e0-7f53-4787-86d9-630ee3cfb258)
+
 
 
 
