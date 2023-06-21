@@ -9,11 +9,12 @@ Database : MySQL
 
 Citizen module :
 <div style="float:right;">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ba9216f2-b09f-4320-83f4-8285de419b05" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/4fc66aba-bfe9-44a1-9756-1f78da4028b5" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/d00a2754-41ee-4afa-b88f-c2f2594cb34b" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ef86eae0-aca0-48f0-8354-c4999dee700d" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/0c58aa2a-ccc5-4c8e-816f-5c396b879fa3" height="300px" width="150px">
+  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/b051eea4-62aa-49af-af66-a836c71d5b1b" height="300px" width="150px">
+  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/9cb9acd2-f300-4f7e-ae64-11ab94b32fec" height="300px" width="150px">
+  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/23dcf158-27c9-4bcc-a71e-1ba01b9bf5fe" height="300px" width="150px">
+  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/0cfeec40-acc7-468a-a250-0c7e7d2b0ee9" height="300px" width="150px">
+  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/8e0b670b-5df4-40ea-9b6e-7add576b8c42" height="300px" width="150px">
+
 </div>
 <br>
 Admin module :
